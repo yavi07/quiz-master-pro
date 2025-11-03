@@ -1,3 +1,4 @@
+import React from 'react';
 import { quizCategories } from '../data/quizData';
 import ServerInfo from './ServerInfo';
 
